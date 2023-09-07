@@ -4,9 +4,10 @@
 
 ### About me:
 
-I am an aspiring Full Stack Developer with a focus on creating innovative solutions for web applications. As a software engineer, I am actively involved in web application development and have a good understanding of React.js, JavaScript, TypeScript, HTML/CSS (SCSS/LESS), OOP, SOLID, and REST principles.
+I am a highly motivated FullStack developer.
+I have very good knowledge of HTML and CSS, responsive web design. Experienced full stack developer with experience with React, Node.js and TypeScript. I can design and implement client-server architectures, develop REST APIs and create web applications. I am proficient in front-end technologies, including React, as well as back-end frameworks such as Express and Node.js. Experience with databases, in particular PostgreSQL, MySQL. I am proficient in testing with Jest, Mocha and Postman. Deep understanding of efficient SQL queries and implementation of SOLID and REST principles. Able to solve both external and internal development tasks to provide comprehensive solutions.
+I love to learn and do it quickly.
 
-I also have practical experience working with databases like PostgreSQL and MySQL. My involvement in the development process includes testing tasks with Jest/Mocha testing frameworks, integration with Postman and Swagger, as well as product launch and technical improvement. I always explore new technologies to find more effective approaches to solving specific problems. I consider my ability to quickly find and apply efficient solutions as one of my strengths.
 
 Please feel free to reach out with any questions or inquiries. You can contact me at august3@mail.ru I'm happy to help and provide answers to any of your questions!
 <div  align="center">
